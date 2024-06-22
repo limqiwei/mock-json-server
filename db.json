@@ -1,0 +1,12 @@
+[
+	{
+		"student_id" : 1,
+		"name": "Tom",
+		"class" : "A1"
+	},
+	{
+		"student_id" : 2,
+		"name": "Jimmy",
+		"class" : "A2"
+	}
+]
